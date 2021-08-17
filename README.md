@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anuj Patil
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently pursiuing masters in computer science
+- 🌱 I’m currently pursiuing Masters in Computer Science
 - 💞️ I’m looking to collaborate on projects based on ML and AI
 - 📫 How to reach me > anuj.patil001@gmail.com
 
